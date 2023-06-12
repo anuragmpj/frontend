@@ -1,0 +1,23 @@
+.header{
+    width: 100vw;
+    height: 80px;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .logo img{
+        width: 180px ;
+    }
+    .menu{
+        width: 30%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .nav__btns{
+        width: 20%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
